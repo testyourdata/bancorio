@@ -21,6 +21,8 @@
 		left: 0;
 		letter-spacing: _font(letter-spacing-alt);
 		line-height: 3.25em;
+		margin-top: 5px;
+		margin-bottom: 5px;
 		margin: 0;
 		position: fixed;
 		text-transform: uppercase;
@@ -42,7 +44,7 @@
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: _palette(fg-bold);
-				color: _palette(bg);
+				color: _palette(gg);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -52,12 +54,16 @@
 			&:hover {
 				strong {
 					background-color: _palette(highlight);
+					color: _palette(gg);
+
 				}
 			}
 
 			&:active {
 				strong {
 					background-color: desaturate(darken(_palette(highlight), 15), 5);
+					color: _palette(gg);
+
 				}
 			}
 		}
@@ -68,6 +74,8 @@
 			@include vendor('flex-grow', '1');
 			height: inherit;
 			line-height: inherit;
+			color: _palette(gg);
+
 
 			a {
 				border: 0;
@@ -91,6 +99,7 @@
 						background-position: center;
 						background-repeat: no-repeat;
 						background-size: 24px 32px;
+						color: _palette(gg);
 						content: '';
 						display: block;
 						height: 100%;

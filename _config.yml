@@ -1,9 +1,9 @@
 # site settings
-title: Analyze Practipago
-subtitle: by POSTA
+title: Analyze Banco RIO
+subtitle:
 email: info@posta.com
-description: Información de Practipago
-baseurl: "practipago" # the subpath of your site, e.g. /blog
+description: Información de Banco RIO
+baseurl: "bancorio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Montevideo
