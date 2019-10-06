@@ -7,5 +7,5 @@ nav-menu: true
 ---
 
 <section id="one">
-<iframe width="90%" height="900px" style="border:none;padding-left:10%"  src="https://public.tableau.com/views/demo_posta_cupones_de_un_mes/CuponesMesActual?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
+<iframe width="100%" height="900px" style="border:none;"  src="https://public.tableau.com/views/banco_rio_cupones_por_mes/CuponesMesActual?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
 </section>
