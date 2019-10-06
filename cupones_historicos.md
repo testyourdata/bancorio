@@ -5,7 +5,7 @@ image: assets/images/pic16.jpg
 description: Como estamos usando nuestros cupones?
 nav-menu: true
 ---
-<section id="one">
-<iframe width="90%" height="900px" style="border:none;padding-left:10%"  src="https://public.tableau.com/views/demo_posta/CuponesHistoricos?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
+<section id="one" class="row center-xs">
+<iframe width="1280px" height="800px" style="border:none;" src="https://public.tableau.com/views/banco_rio_hostorico_cupones/CuponesHistoricos?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
 </section>
 
