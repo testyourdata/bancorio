@@ -6,6 +6,6 @@ description: Como estamos usando nuestros cupones?
 nav-menu: true
 ---
 <section id="one" class="row center-xs">
-<iframe width="1320px" height="800px" style="border:none;" src="https://public.tableau.com/views/banco_rio_hostorico_cupones/CuponesHistoricos?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
+<iframe width="1280px" height="800px" style="border:none;" src="https://public.tableau.com/views/banco_rio_hostorico_cupones/CuponesHistoricos?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
 </section>
 
